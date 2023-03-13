@@ -1,2 +1,3 @@
 # G-Portfolio-
-It is my trial portfolio 
+It is the first portfolio I made with only html and css.
+
